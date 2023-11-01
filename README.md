@@ -18,7 +18,7 @@ Something to keep in mind is that the input function always stores user input as
 <h2>Project Walk-Through:</h2>
 
 <p align="left">
-Screenshots 1 through 4 show the program gathering the user's name, age, city, and hobby. The final screenshot displays a meaningful message to the user.  
+Screenshots 1 through 4 show the program gathering the user's name, age, city, and hobby. The 5th screenshot displays a meaningful message to the user. The final screenshot employs the .lower() method to remove any capital letters the user may have entered. 
 <br />
 <img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2129453&authkey=%21AN-UvZQ1M-7r5YU&width=1039&height=680" width="80%" height="80%" />
 <br />
@@ -35,3 +35,4 @@ Screenshots 1 through 4 show the program gathering the user's name, age, city, a
 <img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2129461&authkey=%21ANXG5sqfiziGqZ0&width=1033&height=731" width="80%" height="80%" />
 <br />
 <br />
+<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2129463&authkey=%21AEycZUT22-IV6B8&width=1106&height=732" width="80%" height="80%" />
