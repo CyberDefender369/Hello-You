@@ -1,7 +1,7 @@
 <h1>Hello You</h1>
 
 <h2>Description</h2>
-This Python project is centered around gathering user input and displaying a meaningful message. User input will be collected by way of the input module. The meaningful message will be delivered to the screen via string formatting.
+This Python project focuses on creating an interactive user input system. By utilizing the input module, we collect input from the user. The collected data is then processed and presented as a meaningful message on the screen using the f string formatting technique.
 
 <h2>Language and Utilities Used</h2>
 
@@ -12,8 +12,6 @@ This Python project is centered around gathering user input and displaying a mea
 
 - Windows 11
 
-<h2>Notes</h2>
-Something to keep in mind is that the input function always stores user input as a string. There will be times when one wants to convert a string into another data type. This program utilizes f-strings, but could have easily used the .format() method as well.
 
 <h2>Project Walk-Through:</h2>
 
