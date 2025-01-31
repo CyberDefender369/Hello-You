@@ -24,5 +24,4 @@ This program does not validate user input or exception handling. These technique
 - Ask user about his or her hobby.
 - Display a meaningful message.
 
-
-![hello_you_v2](https://github.com/user-attachments/assets/5181f6bd-8554-4bda-bac8-3744a2a6645d)
+![hello_you_v3](https://github.com/user-attachments/assets/98716390-9fed-47ca-8243-35112048d46b)
