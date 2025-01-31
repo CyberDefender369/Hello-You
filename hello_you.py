@@ -1,13 +1,13 @@
-#ask user's name
+#get user's name
 name = input("What is your name?: ")
 
-#ask user's age
+#get user's age
 age = input("What is your age?: ")
 
-#ask user where they reside
+#get user's city
 city = input("What city do you live in?: ")
 
-#ask user what they like doing in their free time
+#get user's hobby
 hobby = input("What do you enjoy doing with your free time?: ")
 
 #create output 
