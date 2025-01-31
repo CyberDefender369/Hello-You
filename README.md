@@ -2,7 +2,7 @@
 
 
 ## Description
-This simple Python project focuses on creating an interactive user input system. By utilizing the input module, we collect input from the user. The collected data is then processed and presented as a meaningful message on the screen using the f string formatting technique.
+This Python program takes user input, processes it, and returns an output. It uses variable assignment, strings, print formatting, and the input() function. In essence, the program collects user data and displays a meaningful message on the screen.
 
 
 ## Language and Utilities Used
