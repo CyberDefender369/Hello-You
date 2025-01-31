@@ -19,5 +19,6 @@ This Python program takes user input, processes it, and returns an output. It us
 - Ask user where he or she lives.
 - Ask user about his or her hobby.
 - Display a meaningful message.
-  
-![hello_you](https://github.com/user-attachments/assets/6867b767-4b6f-4b6a-b190-8abe6ce28139)
+
+
+![hello_you_v2](https://github.com/user-attachments/assets/5181f6bd-8554-4bda-bac8-3744a2a6645d)
