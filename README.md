@@ -14,6 +14,10 @@ This Python program takes user input, processes it, and returns an output. It us
 - Windows 11
 
 
+## Notes:
+This program does not validate user input or exception handling. These techniques will be employed in more advanced programs. 
+
+
 ## Project Walk-Through:
 - Collect user name and age.
 - Ask user where he or she lives.
