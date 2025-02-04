@@ -15,7 +15,7 @@ This Python program takes user input, processes it, and returns an output. It us
 
 
 ## Notes
-This program does not validate user input or exception handling. These techniques will be employed in more advanced programs. 
+This program does not validate input or handle exceptions; these will be covered in more advanced programs.
 
 
 ## Project Walk-Through
