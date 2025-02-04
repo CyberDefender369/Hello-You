@@ -2,7 +2,7 @@
 
 
 ## Description
-This Python program takes user input, processes it, and returns an output. It uses variable assignment, strings, print formatting, and the input() function. In essence, the program collects user data and displays a meaningful message on the screen.
+This Python program collects user input, processes it, and returns an output. It uses variable assignment, user input, strings, and print formatting to display a meaningful message.
 
 
 ## Language and Utilities Used
