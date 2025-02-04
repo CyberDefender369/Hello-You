@@ -19,9 +19,9 @@ This program does not validate input or handle exceptions; these will be covered
 
 
 ## Project Walk-Through
-- Collect user name and age.
-- Ask user where he or she lives.
-- Ask user about his or her hobby.
+- Collect the user's name and age.
+- Ask where the user lives.
+- Ask about the user's hobbies.
 - Display a meaningful message.
 
 ![hello_you_v3](https://github.com/user-attachments/assets/98716390-9fed-47ca-8243-35112048d46b)
